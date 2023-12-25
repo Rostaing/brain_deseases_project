@@ -1,0 +1,1 @@
+The primary objective of this dataset is to facilitate the analysis, research, and understanding of various brain diseases, with the possibility of developing predictive models or identifying clinical trends.
